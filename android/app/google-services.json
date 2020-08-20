@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "186377962952",
+    "firebase_url": "https://mandiwallah.firebaseio.com",
+    "project_id": "mandiwallah",
+    "storage_bucket": "mandiwallah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186377962952:android:f5f38171dd6fbc75936cfd",
+        "android_client_info": {
+          "package_name": "www.mandi.com.mandi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186377962952-7kc4r1er4do0e2v840s3vlfme0dh3nb0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "www.mandi.com.mandi",
+            "certificate_hash": "8716f2a7279741ae377d3915bc9c08d01aee6e41"
+          }
+        },
+        {
+          "client_id": "186377962952-7acupao585qd2sd705gnjam3ea6mgq8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI0q8DnEvOVWrM_H6PqT31p8IEWQx-zAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186377962952-7acupao585qd2sd705gnjam3ea6mgq8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
